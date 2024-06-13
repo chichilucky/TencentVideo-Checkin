@@ -5,7 +5,7 @@
 
 ## 今日签到状态
 
-[![Baidu Tieba Auto Sign](https://github.com/bigoceans/TencentVideoAutoCheck/actions/workflows/main.yml/badge.svg)](https://github.com/bigoceans/TencentVideoAutoCheck/actions/workflows/main.yml)
+[![TencentVideo Auto Sign](https://github.com/chichilucky/TencentVideo-Checkin/actions/workflows/main.yml/badge.svg)](https://github.com/chichilucky/TencentVideo-Checkin/actions/workflows/main.yml)
 
 ## 使用说明https://github.com/bigoceans/TencentVideoAutoCheck
 ### 配置流程
@@ -29,7 +29,7 @@
 3. F12 输入 document.cookie然后回车，得到的全部信息就是login_cookie；
 4. auth_cookie是login_cookie的一部分，找到login_cookie中内容为`vqq_vusession=`的地方，将等号之后的内容全部删掉。之前的全部内容就是auth_cookie了。
 5. 获取配置信息的效果图如下：
-![获取配置信息](https://github.com/bigoceans/TencentVideoAutoCheck/blob/main/img/1.jpg?raw=true)
+![获取配置信息](https://github.com/chichilucky/TencentVideo-Checkin/blob/main/img/1.jpg?raw=true)
 
 ### 配置workflow执行信息写入到run.log
 1. 仓库左上方settings
