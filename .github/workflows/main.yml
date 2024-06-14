@@ -1,4 +1,4 @@
-name: 'TencentVideo Auto Sign'
+name: 'Baidu Tieba Auto Sign'
 
 on:
   push:
