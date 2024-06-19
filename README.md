@@ -7,7 +7,11 @@
 
 [![TencentVideo Auto Sign](https://github.com/chichilucky/TencentVideo-Checkin/actions/workflows/main.yml/badge.svg)](https://github.com/chichilucky/TencentVideo-Checkin/actions/workflows/main.yml)
 
-## 使用说明https://github.com/bigoceans/TencentVideoAutoCheck
+## 特别鸣谢
+
+根据 https://github.com/bigoceans/TencentVideoAutoCheck 项目修改而来
+
+## 使用说明
 ### 配置流程
 
 1. Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 这一项，添加 LOGIN_COOKIE 和 AUTH_COOKIE 两个变量。
